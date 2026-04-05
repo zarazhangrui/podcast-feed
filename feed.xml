@@ -26,18 +26,6 @@
 
     
     <item>
-      <title>The Eavesdrop: Launch Window</title>
-      <description>Two hosts eavesdrop on Zara's conversation with Ruming about AI hardware startups, leaving ByteDance, and finding the right co-founder</description>
-      <pubDate>Sat, 05 Apr 2026 23:18:14 GMT</pubDate>
-      <enclosure url="https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-161804.mp3"
-                 length="6094723"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-161804.mp3</guid>
-      <itunes:duration>6:20</itunes:duration>
-      <itunes:summary>Two hosts eavesdrop on Zara's conversation with Ruming about AI hardware startups, leaving ByteDance, and finding the right co-founder</itunes:summary>
-    </item>
-    
-    <item>
       <title>Stop Asking for Permission</title>
       <description>Career advice for the AI age: why building beats grad school, permissionless leverage, and what product management actually looks like now</description>
       <pubDate>Thu, 03 Apr 2026 21:06:33 GMT</pubDate>
@@ -47,6 +35,30 @@
       <guid isPermaLink="false">https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-03-140633.mp3</guid>
       <itunes:duration>5:25</itunes:duration>
       <itunes:summary>Career advice for the AI age: why building beats grad school, permissionless leverage, and what product management actually looks like now</itunes:summary>
+    </item>
+    
+    <item>
+      <title>Builder Feed: Ideas Over Code</title>
+      <description>Karpathy says share ideas not code, Levie on the death of RAG, Garry Tan vibe coding, and more from the AI builder feed</description>
+      <pubDate>Sun, 05 Apr 2026 23:50:42 GMT</pubDate>
+      <enclosure url="https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-165027.mp3"
+                 length="6897205"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-165027.mp3</guid>
+      <itunes:duration>7:11</itunes:duration>
+      <itunes:summary>Karpathy says share ideas not code, Levie on the death of RAG, Garry Tan vibe coding, and more from the AI builder feed</itunes:summary>
+    </item>
+    
+    <item>
+      <title>The Eavesdrop: Launch Window</title>
+      <description>Two hosts eavesdrop on Zara's conversation with Ruming about AI hardware startups, leaving ByteDance, and finding the right co-founder</description>
+      <pubDate>Sat, 05 Apr 2026 23:18:14 GMT</pubDate>
+      <enclosure url="https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-161804.mp3"
+                 length="6094723"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-161804.mp3</guid>
+      <itunes:duration>6:20</itunes:duration>
+      <itunes:summary>Two hosts eavesdrop on Zara's conversation with Ruming about AI hardware startups, leaving ByteDance, and finding the right co-founder</itunes:summary>
     </item>
     
   </channel>
