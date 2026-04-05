@@ -1,14 +1,5 @@
 [
   {
-    "title": "Stop Asking for Permission",
-    "description": "Career advice for the AI age: why building beats grad school, permissionless leverage, and what product management actually looks like now",
-    "pub_date": "Thu, 03 Apr 2026 21:06:33 GMT",
-    "filename": "2026-04-03-140633.mp3",
-    "file_size": "5211158",
-    "duration": "5:25",
-    "guid": "https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-03-140633.mp3"
-  },
-  {
     "title": "Builder Feed: Ideas Over Code",
     "description": "Karpathy says share ideas not code, Levie on the death of RAG, Garry Tan vibe coding, and more from the AI builder feed",
     "pub_date": "Sun, 05 Apr 2026 23:50:42 GMT",
@@ -25,5 +16,14 @@
     "file_size": "6094723",
     "duration": "6:20",
     "guid": "https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-05-161804.mp3"
+  },
+  {
+    "title": "Stop Asking for Permission",
+    "description": "Career advice for the AI age: why building beats grad school, permissionless leverage, and what product management actually looks like now",
+    "pub_date": "Thu, 03 Apr 2026 21:06:33 GMT",
+    "filename": "2026-04-03-140633.mp3",
+    "file_size": "5211158",
+    "duration": "5:25",
+    "guid": "https://zarazhangrui.github.io/podcast-feed/episodes/2026-04-03-140633.mp3"
   }
 ]
