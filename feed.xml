@@ -8,6 +8,12 @@
     <description>Personalized podcasts for Zara</description>
     <language>en</language>
     <atom:link href="https://zarazhangrui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:owner>
+      <itunes:name>Made for Zara</itunes:name>
+      <itunes:email>zara.r.zhang@gmail.com</itunes:email>
+    </itunes:owner>
+    
 
     <!-- Show artwork -->
     <image>
@@ -17,7 +23,7 @@
     </image>
     <itunes:image href="https://zarazhangrui.github.io/podcast-feed/cover-art.png"/>
 
-    <!-- iTunes/Podcast player metadata -->
+    <!-- Podcast player metadata -->
     <itunes:author>Made for Zara</itunes:author>
     <itunes:summary>Personalized podcasts for Zara</itunes:summary>
     <itunes:category text="Technology"/>
